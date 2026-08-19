@@ -2,6 +2,8 @@
 
 **<span style="font-size: 24px">The challenge:</span>**<span style="font-size: 24px"> The password is stored in </span>`data.txt`<span style="font-size: 24px"> as one of the few human-readable strings, preceded by several </span>`=`<span style="font-size: 24px"> characters.</span>
 
+<span style="font-size: 24px">password for next level : </span>`B0s2khmbT9u0geKuOoVGW3JZKhndE3BG`
+
 **<span style="font-size: 24px">What I did:</span>**
 
 1. `ls`<span style="font-size: 24px"> — found </span>`data.txt`
